@@ -1,0 +1,10 @@
+console.log("built-in objects:Math");
+console.log(Math.PI);
+console.log(Math.max(10,20,30,40,50,60));
+console.log(Math.min(10,20,30,40,50,60));
+console.log(Math.round(1.34));
+console.log(Math.ceil(1.1));
+console.log(Math.abs(-5));
+console.log(Math.random());
+console.log(Math.sqrt(5));
+console.log(Math.pow(2,10));
